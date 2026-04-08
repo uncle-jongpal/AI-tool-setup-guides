@@ -13,6 +13,7 @@
 | 🦞 OpenClaw + Discord | [바로가기](./openclaw-discord-windows/README.md) | Windows WSL2 + Cursor + Claude Code | ✅ 완료 |
 | 📡 Claude Code Channels + Discord | [바로가기](./claude-channels-discord/README.md) | macOS / Linux / Windows WSL | ✅ 완료 |
 | 🌐 Cloudflare Tunnel | [바로가기](./cloudflare-tunnel/README.md) | Ubuntu Linux | ✅ 완료 |
+| 🔌 Claude Code Plugins | [바로가기](./claude-code-plugins/README.md) | Claude Code v2.1.92+ | ✅ 완료 |
 
 > 새로운 가이드가 지속적으로 추가됩니다.
 
@@ -28,6 +29,8 @@ ai-tool-setup-guides/
 ├── claude-channels-discord/           ← Claude Code Channels + Discord
 │   └── README.md
 ├── cloudflare-tunnel/                 ← Cloudflare Tunnel 세팅
+│   └── README.md
+├── claude-code-plugins/               ← Claude Code 플러그인 가이드
 │   └── README.md
 ├── (향후 추가 예정)
 │   ├── cursor-claude-code-setup/      ← Cursor + Claude Code 세팅
