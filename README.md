@@ -15,6 +15,7 @@
 | 📡 Claude Code Channels + Discord | [바로가기](./claude-channels-discord/README.md) | macOS / Linux / Windows WSL | ✅ 완료 |
 | 🌐 Cloudflare Tunnel | [바로가기](./cloudflare-tunnel/README.md) | Ubuntu Linux | ✅ 완료 |
 | 🔌 Claude Code Plugins | [바로가기](./claude-code-plugins/README.md) | Claude Code v2.1.92+ | ✅ 완료 |
+| 🔬 Graphify 코드 그래프 | [바로가기](./graphify-codebase-graph/README.md) | Python 3.9+ | ✅ 완료 |
 
 > 새로운 가이드가 지속적으로 추가됩니다.
 
@@ -34,6 +35,8 @@ ai-tool-setup-guides/
 ├── cloudflare-tunnel/                 ← Cloudflare Tunnel 세팅
 │   └── README.md
 ├── claude-code-plugins/               ← Claude Code 플러그인 가이드
+│   └── README.md
+├── graphify-codebase-graph/            ← Graphify 코드 구조 그래프
 │   └── README.md
 ├── (향후 추가 예정)
 │   ├── cursor-claude-code-setup/      ← Cursor + Claude Code 세팅
